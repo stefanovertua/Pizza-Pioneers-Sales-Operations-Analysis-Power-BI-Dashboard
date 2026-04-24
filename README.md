@@ -1,5 +1,4 @@
-# PIZZA PIONEERS: SALES & OPERATIONS ANALYSIS | POWER BI DASHBOARD
-
+# Pizza Pioneers: Sales & Operations Analysis | Power BI Dashboard
 ## Overview
 
 This project presents key insights and discusses potential solutions for a Pizzeria based in the US, Pizza Pioneers, by offering actionable recommendations aimed at optimizing operational processes, improving efficiency, and addressing current challenges. <br>
